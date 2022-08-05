@@ -1,5 +1,9 @@
 ### Hello, I'm Mize! 👋
 
+#### Career
+ - POSTECH CSE 20
+ - Apple Developer Academy @ POSTECH 1기 Jr. Learner
+ 
 #### Languages
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/></a>
