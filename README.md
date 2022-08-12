@@ -1,4 +1,5 @@
 ### Hello, I'm Mize! 👋
+#### Student Developer
 
 ---
 
@@ -7,7 +8,8 @@
  - Apple Developer Academy @ POSTECH 1기 Jr. Learner
  
 ---
- 
+
+### Skills
 #### Languages
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/></a>
