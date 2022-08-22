@@ -1,5 +1,5 @@
 ### Hello, I'm Mize! 👋
-#### Student Developer
+#### Student Developer @ POSTECH
 
 ---
 
