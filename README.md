@@ -5,6 +5,7 @@
 
 ### Career
  - POSTECH CSE 20
+ - Leader of POSTECH G-POS (Gamemakers in POSTECH) (2024)
  - Apple Developer Academy @ POSTECH 1기 Jr. Learner
  
 ---
