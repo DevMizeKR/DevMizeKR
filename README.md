@@ -34,7 +34,7 @@
  - [Kart Dictionary](https://github.com/DevMizeKR/KartDictionary)
  - [Hall of Rhythm](https://github.com/DeveloperAcademy-POSTECH/NC2-Mize-HallofRhythm)
 
-#### G-POS (POSTECH Game Developer Club)
+#### G-POS (Gamemakers in POSTECH)
 [<img src="https://github.com/DevMizeKR/DevMizeKR/assets/96890040/7065f516-ad6f-44a3-b1e9-c56e7ba8b26b.png" width="50" height="50" title="FLAVITY"/>](https://github.com/DevMizeKR/GPOS-2023-FLAVITY)
 
 
