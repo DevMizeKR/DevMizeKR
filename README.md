@@ -36,6 +36,7 @@
 
 #### G-POS (Gamemakers in POSTECH)
 [<img src="https://github.com/DevMizeKR/DevMizeKR/assets/96890040/7065f516-ad6f-44a3-b1e9-c56e7ba8b26b.png" width="50" height="50" title="FLAVITY"/>](https://github.com/DevMizeKR/GPOS-2023-FLAVITY)
+[<img src="https://github.com/DevMizeKR/DevMizeKR/assets/96890040/4fe320b0-6b03-4090-be60-a40e4d98fc9f.png" width="50" height="50" title="to the STAR"/>](https://github.com/GPOS-Gamemakers-in-POSTECH/GPOS-2024-to-the-STAR)
 
 
 ---
