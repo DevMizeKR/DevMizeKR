@@ -6,6 +6,7 @@
 ### Career
  - 2024.06 ~ 2024.08 : Internship at KOG Games Inc.
  - 2023.12 ~ 2024.08 : Leader of G-POS
+ - 2023.10 ~ 2023.12 : Founding Member of nears
  - **2023.03 ~ : Member of G-POS (Gamemakers in POSTECH)**
  - 2022.03 ~ 2022.12 : Apple Developer Academy @ POSTECH 1st Jr. Learner
  - **2020.03 ~ : POSTECH CSE 20**
