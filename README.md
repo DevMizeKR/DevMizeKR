@@ -40,7 +40,10 @@
 #### G-POS (Gamemakers in POSTECH)
 [<img src="https://github.com/DevMizeKR/DevMizeKR/assets/96890040/7065f516-ad6f-44a3-b1e9-c56e7ba8b26b.png" width="50" height="50" title="FLAVITY"/>](https://github.com/DevMizeKR/GPOS-2023-FLAVITY)
 [<img src="https://github.com/DevMizeKR/DevMizeKR/assets/96890040/4fe320b0-6b03-4090-be60-a40e4d98fc9f.png" width="50" height="50" title="to the STAR"/>](https://github.com/GPOS-Gamemakers-in-POSTECH/GPOS-2024-to-the-STAR)
+[<img src="https://github.com/DevMizeKR/DevMizeKR/assets/96890040/52a89c97-eb16-4eef-a280-985d42a26da0.png" width="50" height="50" title="Fishy Factory"/>](https://github.com/GPOS-Gamemakers-in-POSTECH/GPOS-2024-Fishy_Factory)
 
+#### Collaborations
+[<img src="https://github.com/DevMizeKR/DevMizeKR/assets/96890040/53ed9198-7f53-4047-8fd8-8f96f69fba78.png" width="50" height="50" title="Fishy Factory"/>](https://github.com/sumjingangcat/2024_STadium_Game_Jam)
 
 ---
 
