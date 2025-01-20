@@ -43,7 +43,7 @@
 [<img src="https://github.com/DevMizeKR/DevMizeKR/assets/96890040/52a89c97-eb16-4eef-a280-985d42a26da0.png" width="50" height="50" title="Fishy Factory"/>](https://github.com/GPOS-Gamemakers-in-POSTECH/GPOS-2024-Fishy_Factory)
 
 #### Collaborations
-[<img src="https://github.com/DevMizeKR/DevMizeKR/assets/96890040/53ed9198-7f53-4047-8fd8-8f96f69fba78.png" width="50" height="50" title="Fishy Factory"/>](https://github.com/sumjingangcat/2024_STadium_Game_Jam)
+[<img src="https://github.com/DevMizeKR/DevMizeKR/assets/96890040/53ed9198-7f53-4047-8fd8-8f96f69fba78.png" width="50" height="50" title="JotThatSir"/>](https://github.com/sumjingangcat/2024_STadium_Game_Jam)
 
 ---
 
