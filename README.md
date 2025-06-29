@@ -21,7 +21,6 @@
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/></a>
 
 #### Tools
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/></a>
 
@@ -39,7 +38,7 @@
 
 #### G-POS (Gamemakers in POSTECH)
 [<img src="https://github.com/DevMizeKR/DevMizeKR/assets/96890040/7065f516-ad6f-44a3-b1e9-c56e7ba8b26b.png" width="50" height="50" title="FLAVITY"/>](https://github.com/DevMizeKR/GPOS-2023-FLAVITY)
-[<img src="https://github.com/DevMizeKR/DevMizeKR/assets/96890040/4fe320b0-6b03-4090-be60-a40e4d98fc9f.png" width="50" height="50" title="to the STAR"/>](https://github.com/GPOS-Gamemakers-in-POSTECH/GPOS-2024-to-the-STAR)
+[<img src="https://github.com/DevMizeKR/DevMizeKR/assets/96890040/4fe320b0-6b03-4090-be60-a40e4d98fc9f.png" width="50" height="50" title="to the STAR"/>](https://github.com/GPOS-Gamemakers-in-POSTECH/GPOS-2024-to_the_STAR)
 [<img src="https://github.com/DevMizeKR/DevMizeKR/assets/96890040/52a89c97-eb16-4eef-a280-985d42a26da0.png" width="50" height="50" title="Fishy Factory"/>](https://github.com/GPOS-Gamemakers-in-POSTECH/GPOS-2024-Fishy_Factory)
 
 #### Collaborations
